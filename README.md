@@ -3,7 +3,7 @@
 </h1>
 
 
-Desafio de projeto criado em Java com a tutoria da Camila Cavalcante da Digital Innovation One abstraindo sobre um bootcamp e praticando os principais conceitos de programação orientada a objetos: **herança, encapsulamento** e **polimorfismo.**   
+Desafio de projeto criado em **Java** com a tutoria da Camila Cavalcante da Digital Innovation One abstraindo sobre um bootcamp e praticando os principais conceitos de programação orientada a objetos: **herança, encapsulamento** e **polimorfismo.**   
 
 ## Contexto   
 
